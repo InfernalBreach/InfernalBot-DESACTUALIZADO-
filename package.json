@@ -1,0 +1,23 @@
+{
+  "name": "infernal-bot",
+  "version": "0.1.0",
+  "description": "InfernalBot",
+  "main": "main.js",
+  "author": {
+    "name": "xNexusACS"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "cfonts": "^2.10.1",
+    "colors": "^1.4.0",
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "ffmpeg-static": "^5.0.0",
+    "yarn": "^1.22.18",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0",
+    "discord-gamecord": "^1.1.4"
+  }
+}
